@@ -16,6 +16,7 @@ VMware Identity Manager Connector or AirWatch Cloud Connector installed:  Window
                                                                           Windows Server 2012 or 2012 R2
                                                                           .NET framework 4.6.2
                                                                           For the VMware Identity Manager Connector installation guide                                                                             see the VMware Identity Manager Documentation Center. For the                                                                           AirWatch Cloud Connector installation guide, see the Workspace                                                                           ONE UEM Documentation Center.                                                                        
+
 VMware Workspace ONE is a management platform that allows IT administrators to centrally control end users' mobile devices and cloud-hosted virtual desktops and applications from the cloud or from an on-premises deployment.
 
 Workspace ONE is designed to directly address challenges faced by organizations in the consumerization of IT. Workspace ONE is a simple and secure enterprise platform that delivers and manages any app on any device by integrating identity, application, and enterprise mobility management. 
