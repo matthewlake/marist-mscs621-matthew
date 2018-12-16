@@ -1,4 +1,4 @@
-Workspace ONE
+About VMware Workspace ONE
 
 
 
