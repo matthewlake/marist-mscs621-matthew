@@ -2,6 +2,8 @@ About VMware Workspace ONE
 
 VMware Workspace ONE is a management platform that allows IT administrators to centrally control end users' mobile devices and cloud-hosted virtual desktops and applications from the cloud or from an on-premises deployment.
 
+TALK ABOUT WHY I CHOSE THIS AND HOW I IMPLEMENTED THIS AT WORK AND AM LOOKING INTO GOING FROM ON PREM TO CLOUD.
+
 Workspace ONE system requirements:
 
 Active Directory: Windows Server 2008 and 2008 R2
