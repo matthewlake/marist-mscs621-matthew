@@ -2,7 +2,7 @@ About VMware Workspace ONE
 
 VMware Workspace ONE is a management platform that allows IT administrators to centrally control end users' mobile devices and cloud-hosted virtual desktops and applications from the cloud or from an on-premises deployment.
 
-TALK ABOUT WHY I CHOSE THIS AND HOW I IMPLEMENTED THIS AT WORK AND AM LOOKING INTO GOING FROM ON PREM TO CLOUD.
+I chose this platform because at my current job we are doing the implementation right now. Doing this extra research and learning more about the fundamentals of Workspace ONE has definetly made me more confident with handling the project at work. Understanding the basics of how Workspace ONE works at its core will make choosing what my company should and should not invest in implementing much easier and efficient. 
 
 Workspace ONE system requirements:
 
@@ -26,40 +26,6 @@ Workspace ONE is designed to directly address challenges faced by organizations 
 VMware Workspace ONE deploys and manages resources to a single digital workspace on iOS, Android, macOS, and Windows 10 devices. Services are built on the integration of VMware Workspace ONE UEM (Unified Endpoint Management), VMware Identity Manager, and VMware Horizon.
 
 Workspace ONE is a set of integrated systems that includes Workspace ONE UEM (unified end-point management), VMware Identity Manager, and VMware Horizon.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
